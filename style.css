@@ -14,7 +14,7 @@ display: flex;
 
 .cartao{
 margin: 1rem 1rem;
-background-color: rgba(0, 255, 221, 0.425);
+background-color: rgba(0, 255, 221, 0.562);
 height: 20rem;
 flex-grow: 1;
 flex-basis: calc(33% -6rem);
