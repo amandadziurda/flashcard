@@ -17,7 +17,7 @@ background: url("img/bg-desktop.webp");
 
 .cartao{
 margin: 1rem 1rem;
-background-color: rgba(0, 255, 221, 0.562);
+background-color: rgba(209, 112, 21, 0.562);
 height: 20rem;
 flex-grow: 1;
 flex-basis: calc(33% -6rem);
