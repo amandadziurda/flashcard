@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'FÍSICA',
+    'O QUE É ELETROMAGNETISMO?',
+    'É UMA ÁREA DE ESTUDO DA FÍSICA QUE ANALISA OS FENÔMENOS ELÉTRICOS E OS FENÔMENOS MAGNÉTICOS DE MANEIRA UNIFICADA.'
 )
