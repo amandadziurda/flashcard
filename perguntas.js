@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'PROGRAMAÇÃO,
+    'O QUE É UM ALGORITMO NA PROGRAMAÇÃO?',
+    'É UM CONJUNTO DE INSTRUÇÕES QUE DEFINE O SEQUENCIAMENTO DE PASSOS PARA QUE UM COMPUTADOR EXECUTE UMA TAREFA OU RESOLVA UM PROBLEMA.'
 )
 
 criaCartao(
