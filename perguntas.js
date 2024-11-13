@@ -5,9 +5,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'MATEMÁTICA',
+    'O QUE É UM NÚMERO REAL?',
+    'UM NÚMERO REAL É UM CONJUNTO NUMÉRICO FORMADO POR QUALQUER NÚMERO INTEIRO OU DECIMAL.'
 )
 
 criaCartao(
